@@ -15,9 +15,9 @@ The **Text Summarizer** is a web application designed to automatically generate 
 
 ### Machine Learning & AI
 
-- **NLP Library**: 
-  - [Hugging Face Transformers](https://huggingface.co/transformers/): Used for implementing state-of-the-art transformer models for text summarization.
-  - [spaCy](https://spacy.io/): An optional library for NLP tasks 
+ ### NLP Library:
+    Hugging Face Transformers: Used for implementing state-of-the-art transformer models for text summarization, specifically utilizing the T5-base model.
+    spaCy: An optional library for NLP tasks.
 
 ### Web Development
 
